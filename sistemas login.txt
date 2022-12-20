@@ -1,0 +1,35 @@
+SIP
+https://sip.trijay.app.br/engine/swagger/index.html
+Instituição: 83329476000106 (I0001)
+Usuário Instituição: 81065849842
+Senha: 8WA9
+
+
+simi
+admin
+1234567
+
+
+glpi
+Login: luciano.caprara
+Senha: trijay@2022
+https://www.trijay.com.br/helpdesk/index.php
+
+
+wolks
+http://trijay.bot.nu:6030/
+Login: admin
+Senha: 3JAY
+http://trijay.bot.nu:6020/swagger/index.html
+
+Natura
+Login WP TESTE---------
+Front: https://trijay.com.br/wptest
+
+Admin: https://trijay.com.br/wptest/wp-admin/
+User: wpadminteste
+Senha: pass*wp#teste
+
+senha do site lucianomc
+wvnjL(ym6KxU#SJK(joX
+
